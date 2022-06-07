@@ -33,7 +33,7 @@
 ## About The Project
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/gabrielfelipeio/app-navigation/master/assets/examples/sample-1.png" width="250">
+    <img src="https://raw.githubusercontent.com/gabrielfelipeio/app-navigation/master/assets/examples/sample-1.gif" width="250">
 </div>
 
 Application developed for study using `React Native` that's a simple app with `React Navigation`.
