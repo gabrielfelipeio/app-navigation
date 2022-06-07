@@ -7,7 +7,7 @@ export function ScreenA() {
   const navigation = useNavigation()
 
   function openScreenB() {
-    navigation.navigate('screenB')
+    navigation.navigate('screenB', { name: 'Gabriel' })
   }
 
   function openScreenC() {
